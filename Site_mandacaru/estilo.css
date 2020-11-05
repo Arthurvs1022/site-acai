@@ -8,3 +8,7 @@ body{
     font-family: "trebuchet MS", Arial, Helvetica, sans-serif;
     background: #e6e6e6;
 }
+/* Layout */
+#area-cabecalho{
+    background-color: #5A3B6B;
+}
