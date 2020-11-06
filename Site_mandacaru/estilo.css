@@ -4,11 +4,12 @@
    padding: 0;
 }
 body{
+
     font-size: 1em;
     font-family: "trebuchet MS", Arial, Helvetica, sans-serif;
-    background: #e6e6e6;
+    background: #e6e6e6 url(imagens/fundo.png) repeat-x;
 }
 /* Layout */
 #area-cabecalho{
-    background-color: #5A3B6B;
+    
 }
