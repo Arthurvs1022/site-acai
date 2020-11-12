@@ -7,9 +7,11 @@ body{
 
     font-size: 1em;
     font-family: "trebuchet MS", Arial, Helvetica, sans-serif;
-    background: #e6e6e6 url(imagens/fundo.png) repeat-x;
+    background: #f4f2ec url(imagens/fundo.png) repeat-x;
 }
 /* Layout */
 #area-cabecalho{
+    width: 1080px;
+    margin: 0 auto;
     
 }
